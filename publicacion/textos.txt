@@ -1,11 +1,24 @@
 Título (30)
 ===========
 
+GUIA DE MARMOLEJO
+
 Descripción breve (80)
 ======================
 
+En esta guía encontrarás toda la información de interés para visitar Marmolejo.
+
 Descripción completa (4000)
 ===========================
+
+Esta guía de Marmolejo te será muy útil para moverte por sus calles, localizar cada bar, restaurante, alojamiento, o lugares visitables de interés turístico o cultural, podrás conocer cómo se celebran sus principales fiestas, o descubrir increíbles senderos por Sierra Morena.
+Marmolejo está ubicado en una pequeña meseta bañada por el Guadalquivir y en un entorno natural privilegiado, es la puerta de entrada a dos Parques Naturales: Sierra de Andújar, en Jaén, y Sierras de Cardeña y Montoro, en la provincia de Córdoba.
+Marmolejo hunde sus raíces históricas en la fundación por los Cartagineses de la antigua ciudad de Útica en el 261 a.C.
+La fecha que más protagonismo tiene en la Historia de los Marmolejeños es el 27 de junio de 1791, día en el que Carlos IV rubricaba la independencia de Marmolejo de la ciudad de Andújar, convirtiéndose Marmolejo en Villa independiente por derecho propio. En el 2016, Marmolejo ha celebrado de una forma muy especial esa fecha, al cumplirse 225 años.
+Marmolejo es conocido por sus Aguas Minerales, que están consideradas entre  las mejores de Europa. Aunque las Aguas Minero-medicinales de Marmolejo se conocían y venían siendo explotadas desde la antigüedad, no fue hasta finales del Siglo XIX cuando se establece una Sociedad de Aguas y se comienza la construcción de un Balneario en el sentido moderno del término.
+Será de la mano del Balneario que, a lo largo del siglo que termina y hasta el comienzo de la Guerra Civil, Marmolejo se convierta en uno de los municipios más prósperos de toda Andalucía y en uno de los más conocidos de España, alcanzando fama internacional. Siendo el Marmolejo de hoy digno heredero del de aquellos años.
+
+
 
 Etiquetas	
 ===========
@@ -22,3 +35,5 @@ Sitio web
 Correo electrónico
 ==================
 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
